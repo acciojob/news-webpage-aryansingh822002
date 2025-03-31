@@ -16,7 +16,7 @@ header {
 	justify-content:space-around;
 }
 
-.box1 {
+.latest-news-section {
 	width:33.33%;
 	background-color:white;
 	padding:20px;
@@ -30,7 +30,7 @@ header {
 	border-radius:10px;
 	height:250px
 }
-.box3 {
+.pictorial-news-section {
 	width:33.33%;
 	background-color:white;
 	padding:20px;
