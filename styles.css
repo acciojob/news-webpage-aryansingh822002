@@ -41,6 +41,6 @@ header {
 img{
 	width:100%;
 }
-h3 , .list,p {
+h3 , ul,p,img {
 	text-align:center;
 }
