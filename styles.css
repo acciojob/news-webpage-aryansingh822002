@@ -21,14 +21,16 @@ header {
 	background-color:white;
 	padding:20px;
 	border-radius:10px;
-	height:200px
+	height:200px;
+	text-align:center;
 }
 .latest-news-section {
 	width:33.33%;
 	background-color:white;
 	padding:20px;
 	border-radius:10px;
-	height:250px
+	height:250px;
+	text-align:center
 }
 .pictorial-news-section {
 	width:33.33%;
@@ -36,11 +38,10 @@ header {
 	padding:20px;
 	border-radius:10px;
 	height:380px;
+	text-align:center;
 }
 
 img{
 	width:100%;
 }
-h3 , ul,p,img {
-	text-align:center;
-}
+
